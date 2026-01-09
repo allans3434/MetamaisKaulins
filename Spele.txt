@@ -1,2 +1,20 @@
 1.Spēles apraksts:
 Manā spēle ir jāizvēlas cipars 1 no 6 un pēc tam ar kauliņa palīdzību tas cipars ir jauzmet 3 reizes pēc kārtas, lai uzvarētu.
+
+2.Prasību specifikācija:
+Spēlētājam ir jābut iespējai izvēlēties ciparu no 1 līdz 6.
+Spēlei ir jāģenerē nejauš kauliņa metiens no 1 līdz 6.
+Spēlei ir jāparāda katra metiena rezultāts.
+Spēlei ir jāskaita veiksmīgie metieni pēc kārtas.
+Ja metiens nesakrīt ar izvēlēto ciparu, skaitītājs tiek anulēts.
+Spēlētājs uzvar tad, kad viņam izskrīt viņa izvēlētais cipars 3 reizes pēc kārtas.
+Spēle darbojas teksta režīmā.
+Cipars tiek ievadīts ar klaviatūru
+Ekrānā tiek rādīts kauliņa metiens un spēles statuss.
+Spēle darbojas uz jebkuras operētājsistēmas.
+Tiek izmantots nejaušo skaitļu ģenerātors.
+Ievaddati ir izvēlētais cipars (1-6).
+Ievade būs veikta no klaviatūras.
+Izvaddati būs kauliņa metiena rezultāts (1-6).
+Veiksmīgo metienu skaits.
+Paziņojums par spēles uzvaru.
