@@ -18,3 +18,19 @@ Ievade būs veikta no klaviatūras.
 Izvaddati būs kauliņa metiena rezultāts (1-6).
 Veiksmīgo metienu skaits.
 Paziņojums par spēles uzvaru.
+
+Testpiemēru kopa:
+Uzvaras tests:
+Izvēlētais cipars=3.
+Metieni:3; 3; 3;
+Rezultāts:Spēlētājs uzvar.
+
+Anulēšanās tests:
+Izvēlētais cipars=5.
+Metieni:5; 5; 2;
+Rezultāts:Skaitītājs anulējas uz 0.
+
+Uzvara pēc atkārtošanas tests:
+Izvēlētais cipars=1.
+Metieni:1; 2; 1; 1; 1;
+Rezultāts:Spēlētājs uzvar.
