@@ -1,0 +1,2 @@
+1.Spēles apraksts:
+Manā spēle ir jāizvēlas cipars 1 no 6 un pēc tam ar kauliņa palīdzību tas cipars ir jauzmet 3 reizes pēc kārtas, lai uzvarētu.
