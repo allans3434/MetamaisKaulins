@@ -3,7 +3,7 @@ import random
 
 root = tk.Tk()
 root.title("Metamais Kauliņš")
-root.resizeble(False, False)
+root.resizable(False, False)
 
 chosen_number = tk.IntVar()
 success_count = 0
